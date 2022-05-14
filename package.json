@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "enzyme-to-json": "^3.6.2"
+  },
+  "dependencies": {
+    "react": "^15.7.0",
+    "react-dom": "^15.7.0"
+  }
+}
